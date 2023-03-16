@@ -1,0 +1,4 @@
+vless://d8b8f9ac-4aff-4bbf-e525-452632151e6a@iiir.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#%40v2rayn_20%20%20irancell%20%F0%9F%87%A9%F0%9F%87%AA
+vless://d8b8f9ac-4aff-4bbf-e525-452632151e6a@gtroyt.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#%40v2rayn_20%20%20irancell1%20%F0%9F%87%A9%F0%9F%87%AA
+vless://d8b8f9ac-4aff-4bbf-e525-452632151e6a@xyzbbr.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#%40v2rayn_20%20mci%20%F0%9F%87%A9%F0%9F%87%AA
+vless://d8b8f9ac-4aff-4bbf-e525-452632151e6a@tghi.ddns.net:8443?encryption=none&security=tls&sni=wl.setam.fun&alpn=http%2F1.1&type=ws&host=wl.setam.fun&path=%2F#%40v2rayn_20%20%20mci1%20%F0%9F%87%A9%F0%9F%87%AA
